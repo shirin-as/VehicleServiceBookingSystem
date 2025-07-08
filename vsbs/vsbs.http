@@ -1,0 +1,6 @@
+@vsbs_HostAddress = http://localhost:5103
+
+GET {{vsbs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
